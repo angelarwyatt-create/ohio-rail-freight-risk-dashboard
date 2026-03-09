@@ -13,4 +13,5 @@ Data Source
 Freight Analysis Framework (FAF 5.7.1)
 U.S. Department of Transportation – Bureau of Transportation Statistics
 Tableau Dashboard:
-[View Interactive Dashboard on Tableau Public]((https://public.tableau.com/views/OhioRailFreightDependencyNetworkRisk/OhioRailFreightDependencyNetworkRisk?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View Interactive Dashboard on Tableau Public]
+((https://public.tableau.com/views/OhioRailFreightDependencyNetworkRisk/OhioRailFreightDependencyNetworkRisk?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
